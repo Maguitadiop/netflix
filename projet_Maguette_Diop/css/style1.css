@@ -1,0 +1,36 @@
+#image{
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-top:5px;
+}
+
+ul.navi{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+ 
+}
+li.list{
+  float: right;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 20px 36px;
+ text-decoration: none;
+ background-color: black;
+ 
+}
+li a:hover{
+  background-color: yellow;
+  color:black;
+}
+li a:link{
+  text-decoration: none;
+}
+#pied{
+  text-align: center;
+  color:blue;
+}
+  
+
